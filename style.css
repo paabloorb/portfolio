@@ -1,0 +1,21 @@
+body{
+    background-color: #fefeb5;
+}
+
+#logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#contact{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+table td {
+    text-align: center;
+    font-size: 20px;
+  }
